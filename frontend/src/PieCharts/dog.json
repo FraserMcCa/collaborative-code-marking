@@ -1,0 +1,479 @@
+{
+  "self": "https://cs356group8.atlassian.net/rest/api/2/issue/CG-106/changelog?maxResults=100&startAt=0",
+  "maxResults": 100,
+  "startAt": 0,
+  "total": 15,
+  "isLast": true,
+  "values": [
+    {
+      "id": "10572",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=70121%3A1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "accountId": "70121:1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "24x24": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "16x16": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "32x32": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+        },
+        "displayName": "Sydney Bojsza",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-04-26T16:04:26.167+0100",
+      "items": [
+        {
+          "field": "summary",
+          "fieldtype": "jira",
+          "fieldId": "summary",
+          "from": null,
+          "fromString": "[Feature] Allow onboarding information to be input",
+          "to": null,
+          "toString": "[Feature] Allow input of service user onboarding information"
+        }
+      ]
+    },
+    {
+      "id": "10580",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=70121%3A1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "accountId": "70121:1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "24x24": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "16x16": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "32x32": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+        },
+        "displayName": "Sydney Bojsza",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-04-26T16:06:31.573+0100",
+      "items": [
+        {
+          "field": "priority",
+          "fieldtype": "jira",
+          "fieldId": "priority",
+          "from": "3",
+          "fromString": "Medium",
+          "to": "2",
+          "toString": "High"
+        }
+      ]
+    },
+    {
+      "id": "10581",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=70121%3A1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "accountId": "70121:1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "24x24": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "16x16": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "32x32": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+        },
+        "displayName": "Sydney Bojsza",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-04-26T16:06:48.985+0100",
+      "items": [
+        {
+          "field": "labels",
+          "fieldtype": "jira",
+          "fieldId": "labels",
+          "from": null,
+          "fromString": "",
+          "to": null,
+          "toString": "CouncilService"
+        }
+      ]
+    },
+    {
+      "id": "10656",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=70121%3A1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "accountId": "70121:1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "24x24": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "16x16": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "32x32": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+        },
+        "displayName": "Sydney Bojsza",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-04-26T16:28:35.676+0100",
+      "items": [
+        {
+          "field": "description",
+          "fieldtype": "jira",
+          "fieldId": "description",
+          "from": null,
+          "fromString": null,
+          "to": "{\"id\":\"ari:cloud:jira:71b7b4cc-c7f0-43ad-b212-92a4313d8f49:issuefieldvalue/10105/description\",\"version\":\"1\"}",
+          "toString": "The council sends onboarding information to the centre when they receive a new service user, this includes:\n\n* care requirements\n* any needs they have\n* hours of routine care entitled to receive.\n* hours of emergency care entitled to receive\n\n\n\nUI is okay to get started until we figure out the council’s API."
+        }
+      ]
+    },
+    {
+      "id": "10902",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=70121%3A1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "accountId": "70121:1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "24x24": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "16x16": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "32x32": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+        },
+        "displayName": "Sydney Bojsza",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-04-29T17:51:16.066+0100",
+      "items": [
+        {
+          "field": "Story Points",
+          "fieldtype": "custom",
+          "fieldId": "customfield_10026",
+          "from": null,
+          "fromString": null,
+          "to": null,
+          "toString": "5"
+        }
+      ]
+    },
+    {
+      "id": "10933",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=5f9c1935b45b2e00745f2379",
+        "accountId": "5f9c1935b45b2e00745f2379",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/430ed916ffc8e987f5a24595b5a52486?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCM-1.png",
+          "24x24": "https://secure.gravatar.com/avatar/430ed916ffc8e987f5a24595b5a52486?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCM-1.png",
+          "16x16": "https://secure.gravatar.com/avatar/430ed916ffc8e987f5a24595b5a52486?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCM-1.png",
+          "32x32": "https://secure.gravatar.com/avatar/430ed916ffc8e987f5a24595b5a52486?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FCM-1.png"
+        },
+        "displayName": "Claire Maunders",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-04-29T19:38:15.946+0100",
+      "items": [
+        {
+          "field": "Sprint",
+          "fieldtype": "custom",
+          "fieldId": "customfield_10020",
+          "from": "",
+          "fromString": "",
+          "to": "1",
+          "toString": "CG Sprint 1"
+        }
+      ]
+    },
+    {
+      "id": "10997",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=6082cd3b88cb76006b1595a7",
+        "accountId": "6082cd3b88cb76006b1595a7",
+        "emailAddress": "fraser.mccallum.2018@uni.strath.ac.uk",
+        "avatarUrls": {
+          "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/48",
+          "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/24",
+          "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/16",
+          "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/32"
+        },
+        "displayName": "Fraser Thomas David McCallum",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-04-29T22:32:35.767+0100",
+      "items": [
+        {
+          "field": "assignee",
+          "fieldtype": "jira",
+          "fieldId": "assignee",
+          "from": null,
+          "fromString": null,
+          "to": "5f9c1935b45b2e00745f2379",
+          "toString": "Claire Maunders",
+          "tmpFromAccountId": null,
+          "tmpToAccountId": "5f9c1935b45b2e00745f2379"
+        }
+      ]
+    },
+    {
+      "id": "11055",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=70121%3A1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "accountId": "70121:1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "24x24": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "16x16": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "32x32": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+        },
+        "displayName": "Sydney Bojsza",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-04-30T11:23:30.220+0100",
+      "items": [
+        {
+          "field": "Rank",
+          "fieldtype": "custom",
+          "fieldId": "customfield_10019",
+          "from": "",
+          "fromString": "",
+          "to": "",
+          "toString": "Ranked higher"
+        }
+      ]
+    },
+    {
+      "id": "11056",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=70121%3A1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "accountId": "70121:1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "24x24": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "16x16": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "32x32": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+        },
+        "displayName": "Sydney Bojsza",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-04-30T11:23:34.219+0100",
+      "items": [
+        {
+          "field": "priority",
+          "fieldtype": "jira",
+          "fieldId": "priority",
+          "from": "2",
+          "fromString": "High",
+          "to": "1",
+          "toString": "Highest"
+        }
+      ]
+    },
+    {
+      "id": "11063",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=70121%3A1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "accountId": "70121:1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "24x24": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "16x16": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "32x32": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+        },
+        "displayName": "Sydney Bojsza",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-04-30T11:24:36.007+0100",
+      "items": [
+        {
+          "field": "Rank",
+          "fieldtype": "custom",
+          "fieldId": "customfield_10019",
+          "from": "",
+          "fromString": "",
+          "to": "",
+          "toString": "Ranked lower"
+        }
+      ]
+    },
+    {
+      "id": "11064",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=70121%3A1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "accountId": "70121:1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "24x24": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "16x16": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "32x32": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+        },
+        "displayName": "Sydney Bojsza",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-04-30T12:17:21.407+0100",
+      "items": [
+        {
+          "field": "Sprint",
+          "fieldtype": "custom",
+          "fieldId": "customfield_10020",
+          "from": "1",
+          "fromString": "CG Sprint 1",
+          "to": "1, 2",
+          "toString": "CG Sprint 1, CG Sprint 2"
+        }
+      ]
+    },
+    {
+      "id": "11269",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=6082cd3b88cb76006b1595a7",
+        "accountId": "6082cd3b88cb76006b1595a7",
+        "emailAddress": "fraser.mccallum.2018@uni.strath.ac.uk",
+        "avatarUrls": {
+          "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/48",
+          "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/24",
+          "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/16",
+          "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/32"
+        },
+        "displayName": "Fraser Thomas David McCallum",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-05-07T14:29:11.753+0100",
+      "items": [
+        {
+          "field": "resolution",
+          "fieldtype": "jira",
+          "fieldId": "resolution",
+          "from": null,
+          "fromString": null,
+          "to": "10000",
+          "toString": "Done"
+        },
+        {
+          "field": "status",
+          "fieldtype": "jira",
+          "fieldId": "status",
+          "from": "10000",
+          "fromString": "To Do",
+          "to": "10001",
+          "toString": "Done"
+        }
+      ]
+    },
+    {
+      "id": "11271",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=6082cd3b88cb76006b1595a7",
+        "accountId": "6082cd3b88cb76006b1595a7",
+        "emailAddress": "fraser.mccallum.2018@uni.strath.ac.uk",
+        "avatarUrls": {
+          "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/48",
+          "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/24",
+          "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/16",
+          "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/32"
+        },
+        "displayName": "Fraser Thomas David McCallum",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-05-07T14:29:31.360+0100",
+      "items": [
+        {
+          "field": "assignee",
+          "fieldtype": "jira",
+          "fieldId": "assignee",
+          "from": "5f9c1935b45b2e00745f2379",
+          "fromString": "Claire Maunders",
+          "to": "6082cd3b88cb76006b1595a7",
+          "toString": "Fraser Thomas David McCallum",
+          "tmpFromAccountId": "5f9c1935b45b2e00745f2379",
+          "tmpToAccountId": "6082cd3b88cb76006b1595a7"
+        }
+      ]
+    },
+    {
+      "id": "11273",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=6082cd3b88cb76006b1595a7",
+        "accountId": "6082cd3b88cb76006b1595a7",
+        "emailAddress": "fraser.mccallum.2018@uni.strath.ac.uk",
+        "avatarUrls": {
+          "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/48",
+          "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/24",
+          "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/16",
+          "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6082cd3b88cb76006b1595a7/f545de84-3c5f-4041-a872-78167ac5ebd4/32"
+        },
+        "displayName": "Fraser Thomas David McCallum",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-05-07T14:29:52.725+0100",
+      "items": [
+        {
+          "field": "resolution",
+          "fieldtype": "jira",
+          "fieldId": "resolution",
+          "from": "10000",
+          "fromString": "Done",
+          "to": null,
+          "toString": null
+        },
+        {
+          "field": "status",
+          "fieldtype": "jira",
+          "fieldId": "status",
+          "from": "10001",
+          "fromString": "Done",
+          "to": "3",
+          "toString": "In Progress"
+        }
+      ]
+    },
+    {
+      "id": "11366",
+      "author": {
+        "self": "https://cs356group8.atlassian.net/rest/api/2/user?accountId=70121%3A1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "accountId": "70121:1a78ecc6-75ec-4595-8991-f4ddc0ad9dd3",
+        "avatarUrls": {
+          "48x48": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "24x24": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "16x16": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png",
+          "32x32": "https://secure.gravatar.com/avatar/1933cb756d7e8f162095a7001f7a3b65?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSB-3.png"
+        },
+        "displayName": "Sydney Bojsza",
+        "active": true,
+        "timeZone": "Europe/London",
+        "accountType": "atlassian"
+      },
+      "created": "2021-05-13T17:55:18.952+0100",
+      "items": [
+        {
+          "field": "resolution",
+          "fieldtype": "jira",
+          "fieldId": "resolution",
+          "from": null,
+          "fromString": null,
+          "to": "10000",
+          "toString": "Done"
+        },
+        {
+          "field": "status",
+          "fieldtype": "jira",
+          "fieldId": "status",
+          "from": "3",
+          "fromString": "In Progress",
+          "to": "10001",
+          "toString": "Done"
+        }
+      ]
+    }
+  ]
+}
