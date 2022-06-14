@@ -23,7 +23,9 @@ export const PieChartComponent = ({data, title}) => {
                     <Tooltip/>
                 </PieChart>
             </ResponsiveContainer>
-        </div>) : <div />
+        </div>) : ( <div style={{width: '500px', height: '250px'}}>
+            <h5>Data for {title} not available</h5>
+            </div>)
     )
 }
 
